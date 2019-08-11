@@ -7,3 +7,12 @@
 **Thoughts:** On my daily job I work with VueJS and it was interesting to figure out how forms work in React. :heart: how lightweight Gatsby is. Really feels like the right tool for the job(In this case blogging) without too much overhead.  
 
 **Link(s) to work**: [Michael's Gatsby Blog](https://michaelawad.io)
+
+
+### Day 1: August 11, 2019
+
+**Today's Progress**: Implemented disqus on the site to be able to leave comments on blog posts, together with a comment counter. The other thing implemented is a syntax highlighter using prismjs
+
+**Thoughts:** Looks like there are a lot of plugins tweaked for Gatsby. Can't wait to check out more! :metal: 
+
+**Link(s) to work**: [Michael's Gatsby Blog Post](https://michaelawad.io/my-second-post/)
