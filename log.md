@@ -16,3 +16,11 @@
 **Thoughts:** Looks like there are a lot of plugins tweaked for Gatsby. Can't wait to check out more! :metal: 
 
 **Link(s) to work**: [Michael's Gatsby Blog Post](https://michaelawad.io/my-second-post/)
+
+### Day 2: August 12, 2019
+
+**Today's Progress**: Worked again on the React site, turning the input of the form into an object. Working on implementing a tags system on the Gatsby blog
+
+**Thoughts:** A lot of console logging to create the data structure I had in mind. Implementing the tags on Gatsby required more time than expected and will continue with that Tomorrow! :metal: 
+
+**Link(s) to work**: [Michael's Gatsby Blog](https://michaelawad.io/)
