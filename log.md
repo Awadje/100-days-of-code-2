@@ -19,7 +19,7 @@
 
 ### Day 2: August 12, 2019
 
-**Today's Progress**: Worked again on the React site, turning the input of the form into an object. Working on implementing a tags system on the Gatsby blog
+**Today's Progress**: Worked again on the React site, turning the input of the form into a workable object. Also worked on implementing a tags system on the Gatsby blog
 
 **Thoughts:** A lot of console logging to create the data structure I had in mind. Implementing the tags on Gatsby required more time than expected and will continue with that Tomorrow! :metal: 
 
