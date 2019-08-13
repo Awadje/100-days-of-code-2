@@ -24,3 +24,11 @@
 **Thoughts:** A lot of console logging to create the data structure I had in mind. Implementing the tags on Gatsby required more time than expected and will continue with that Tomorrow! :metal: 
 
 **Link(s) to work**: [Michael's Gatsby Blog](https://michaelawad.io/)
+
+### Day 3: August 13, 2019
+
+**Today's Progress**: Finalized the implementation of the tagging system on my Gatsby blog and experimented with some styling options, just plain CSS and styled components. Obviously it needs some more styling, but that's for tomorrow.
+
+**Thoughts:** Really nice to have finalized the tagging system. For the styling I think I'll go with styled components. Just feels more natural in React. :metal: 
+
+**Link(s) to work**: [Michael's Gatsby Blog](https://michaelawad.io/)
