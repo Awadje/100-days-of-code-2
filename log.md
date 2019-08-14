@@ -32,3 +32,11 @@
 **Thoughts:** Really nice to have finalized the tagging system. For the styling I think I'll go with styled components. Just feels more natural in React. :metal: 
 
 **Link(s) to work**: [Michael's Gatsby Blog](https://michaelawad.io/)
+
+### Day 4: August 14, 2019
+
+**Today's Progress**: Worked on styling of the tags in the blog post template. Chose styled components to do the job
+
+**Thoughts:** Happy with the styling, thinking now I should have the complete tags list on the index page as well. Nice job for tomorrow! :metal: 
+
+**Link(s) to work**: [Michael's Gatsby Blog](https://michaelawad.io/)
