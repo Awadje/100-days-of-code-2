@@ -40,3 +40,27 @@
 **Thoughts:** Happy with the styling, thinking now I should have the complete tags list on the index page as well. Nice job for tomorrow! :metal: 
 
 **Link(s) to work**: [Michael's Gatsby Blog](https://michaelawad.io/)
+
+### Day 5: August 15, 2019
+
+**Today's Progress**: Worked on solving an issue with the deployment to Netlify, Getting an error when running the build command
+
+**Thoughts:** Not sure what the issue could be. Found one part of the issue some utils got lost with merging.
+
+**Link(s) to work**: [Michael's Gatsby Blog](https://michaelawad.io/)
+
+### Day 6: August 16, 2019
+
+**Today's Progress**: Continued with resolving the deployment issue on Netlify. Did some more debugging and research and found the issue. For work we use an older version of node, which caused an issue with building. Luckily I have NVM installed so switching versions was easy.
+
+**Thoughts:** Very happy that it is already fixed :metal:. These kinds of issues can really cause a headache! 
+
+**Link(s) to work**: [Michael's Gatsby Blog](https://michaelawad.io/)
+
+### Day 7: August 17, 2019
+
+**Today's Progress**: Worked implementing a unit testing framework on the gatsby blog.
+
+**Thoughts:** Now that the framework is implemented I can dive into unit testing with Jest! :metal: 
+
+**Link(s) to work**: [Michael's Gatsby Blog](https://michaelawad.io/)
