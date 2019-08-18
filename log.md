@@ -17,6 +17,7 @@
 
 **Link(s) to work**: [Michael's Gatsby Blog Post](https://michaelawad.io/my-second-post/)
 
+
 ### Day 2: August 12, 2019
 
 **Today's Progress**: Worked again on the React site, turning the input of the form into a workable object. Also worked on implementing a tags system on the Gatsby blog
@@ -24,6 +25,7 @@
 **Thoughts:** A lot of console logging to create the data structure I had in mind. Implementing the tags on Gatsby required more time than expected and will continue with that Tomorrow! :metal: 
 
 **Link(s) to work**: [Michael's Gatsby Blog](https://michaelawad.io/)
+
 
 ### Day 3: August 13, 2019
 
@@ -33,6 +35,7 @@
 
 **Link(s) to work**: [Michael's Gatsby Blog](https://michaelawad.io/)
 
+
 ### Day 4: August 14, 2019
 
 **Today's Progress**: Worked on styling of the tags in the blog post template. Chose styled components to do the job
@@ -40,6 +43,7 @@
 **Thoughts:** Happy with the styling, thinking now I should have the complete tags list on the index page as well. Nice job for tomorrow! :metal: 
 
 **Link(s) to work**: [Michael's Gatsby Blog](https://michaelawad.io/)
+
 
 ### Day 5: August 15, 2019
 
@@ -49,6 +53,7 @@
 
 **Link(s) to work**: [Michael's Gatsby Blog](https://michaelawad.io/)
 
+
 ### Day 6: August 16, 2019
 
 **Today's Progress**: Continued with resolving the deployment issue on Netlify. Did some more debugging and research and found the issue. For work we use an older version of node, which caused an issue with building. Luckily I have NVM installed so switching versions was easy.
@@ -57,10 +62,20 @@
 
 **Link(s) to work**: [Michael's Gatsby Blog](https://michaelawad.io/)
 
+
 ### Day 7: August 17, 2019
 
 **Today's Progress**: Worked implementing a unit testing framework on the gatsby blog.
 
 **Thoughts:** Now that the framework is implemented I can dive into unit testing with Jest! :metal: 
+
+**Link(s) to work**: [Michael's Gatsby Blog](https://michaelawad.io/)
+
+
+### Day 8: August 18, 2019
+
+**Today's Progress**: Wrote the first unit test for my Gatsby site. Snapshot testing the blog-post template. Also setup Netlify to run it in the deployment pipeline.
+
+**Thoughts:** Feeling good about writing the first working unit test, more to follow! :metal: 
 
 **Link(s) to work**: [Michael's Gatsby Blog](https://michaelawad.io/)
