@@ -83,7 +83,7 @@
 
 ### Day 9: August 19, 2019
 
-**Today's Progress**: Added a published filter on the blog, now only showing published posts. Boolean can be set in the post itself.
+**Today's Progress**: Added a published filter on the Gatsby blog, now only showing published posts. Boolean can be set in the post itself.
 
 **Thoughts:** Surprisingly easey to filter by means of GraphQL :metal: 
 
