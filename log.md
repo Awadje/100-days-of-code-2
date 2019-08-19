@@ -79,3 +79,12 @@
 **Thoughts:** Feeling good about writing the first working unit test, more to follow! :metal: 
 
 **Link(s) to work**: [Michael's Gatsby Blog](https://michaelawad.io/)
+
+
+### Day 9: August 19, 2019
+
+**Today's Progress**: Added a plublished filter on the blog, now only showing published posts. Boolean can be set in the post itself.
+
+**Thoughts:** Surprisingly easey to filter by meanse of GraphQL :metal: 
+
+**Link(s) to work**: [Michael's Gatsby Blog](https://michaelawad.io/)
