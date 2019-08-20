@@ -88,3 +88,12 @@
 **Thoughts:** Surprisingly easey to filter by means of GraphQL :metal: 
 
 **Link(s) to work**: [Michael's Gatsby Blog](https://michaelawad.io/)
+
+
+### Day 10: August 19, 2019
+
+**Today's Progress**: Worked on our React app again. Refactored the form components I created earlier.
+
+**Thoughts:** Just love refactoring code and making it more clean :metal: 
+
+**Link(s) to work**: No link to this one yet
